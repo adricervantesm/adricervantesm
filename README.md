@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Adrián and I am a Software Engineering student at Universidad Complutense de Madrid.
+I love to work on teams and I am passionate about sports, specially football.
 
 <!--
 **adricervantesm/adricervantesm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
